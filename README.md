@@ -1,5 +1,7 @@
 Code for IISc UMC 301 kaggle competition
 
+**PLACED #31 / 86 in the competition**
+
 **Description**:
 
 **Goal**
