@@ -15,5 +15,7 @@ Danceability: Describes how suitable a track is for dancing based on a combinati
 **Sub-tasks**:
 
 **Imputation**
-**Develop Multiple Models
-Use Ensembles**
+**Develop Multiple Models**
+**Use Ensembles**
+
+
